@@ -1,5 +1,5 @@
 const express = require('express')
-const footPrintSchema = require('../models/footPrintModel')
+const footPrintSchema = require('../Models/footPrint.model.js')
 
 const calculateCarbonFootprint = (data) => {
     // Constants (these can be adjusted based on more precise data)

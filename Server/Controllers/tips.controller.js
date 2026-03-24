@@ -1,5 +1,5 @@
 const express = require('express');
-const tipsModel = require('../models/tipsModel')
+const tipsModel = require('../Models/tips.model.js')
 
 const postTips = async (req, res) => {
     try {

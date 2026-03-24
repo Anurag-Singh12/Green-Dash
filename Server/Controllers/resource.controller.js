@@ -1,5 +1,5 @@
 const express = require('express');
-const resourceModel = require('../models/resourceModel')
+const resourceModel = require('../Models/resource.model.js')
 
 const postResources = async (req, res) => {
     try {
