@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors({
     origin: [
         "http://localhost:5173",
-        "https://your-frontend-url.com"  // frontend deploy 
+        "https://green-living-seven.vercel.app/"  // frontend deploy 
     ],
     credentials: true,
 }))
