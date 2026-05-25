@@ -38,11 +38,11 @@ const techStack = [
 ];
 
 const team = [
-  { label: "Anurag Singh", to: "https://github.com/iamanurag-singh" },
+  { label: "Anurag Singh", to: "https://github.com/Anurag-Singh12" },
+  { label: "Vatsal Garg", to: "https://github.com/vatsal023" },
+  { label: "Divyansh Vats", to: "https://github.com/vatsdivyansh" },
   { label: "Kunal Nasa", to: "https://github.com/KunalNasa" },
   { label: "Charanjeet", to: "https://github.com/git-charanjeet" },
-  { label: "Divyansh Vats", to: "https://github.com/vatsdivyansh" },
-  { label: "Vatsal Garg", to: "https://github.com/vatsdivyansh" },
 ];
 
 const credits = [
